@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+../bumble-backend/node_modules
+../bumble-backend/.env
+
 /.pnp
 .pnp.js
 
